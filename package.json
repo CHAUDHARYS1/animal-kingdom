@@ -1,0 +1,23 @@
+{
+  "name": "animal-kingdom",
+  "version": "1.0.0",
+  "description": "The local zoo application allows animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHAUDHARYS1/animal-kingdom.git"
+  },
+  "author": "Shital Chaudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHAUDHARYS1/animal-kingdom/issues"
+  },
+  "homepage": "https://github.com/CHAUDHARYS1/animal-kingdom#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
