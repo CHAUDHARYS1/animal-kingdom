@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CHAUDHARYS1/animal-kingdom#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "heroku": "^7.59.0"
   }
 }
